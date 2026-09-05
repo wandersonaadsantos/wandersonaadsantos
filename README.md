@@ -16,7 +16,4 @@ Três coisas que guiam o que eu construo:
 - **[Farol](https://github.com/wandersonaadsantos/farol)**: radar de Pull Requests para
   Windows e macOS. Monitora o GitHub em segundo plano, avisa quando pedem sua revisão e roda
   o protocolo de triagem com Claude Code ou Codex CLI.
-- **[Jiraiya](https://github.com/wandersonaadsantos/jiraiya)**: ferramenta que auxilia o
-  desenvolvedor na utilização do Jira.
-
 A maior parte do que eu construo é privada.
