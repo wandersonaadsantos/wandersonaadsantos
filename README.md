@@ -16,4 +16,5 @@ Três coisas que guiam o que eu construo:
 - **[Farol](https://github.com/wandersonaadsantos/farol)**: radar de Pull Requests para
   Windows e macOS. Monitora o GitHub em segundo plano, avisa quando pedem sua revisão e roda
   o protocolo de triagem com Claude Code ou Codex CLI.
+
 A maior parte do que eu construo é privada.
